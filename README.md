@@ -47,8 +47,9 @@ This work is shared under the Creative Commons Attribution-NonCommercial-ShareAl
 
 ## Contact
 
-📧 israelddh@hotmail.com  
-🔗 [www.linkedin.com/in/israel-duarte/](https://www.linkedin.com/in/israel-duarte/)
+📧 [israelddh@hotmail.com](mailto:israelddh@hotmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/israel-duarte/)  
+🆔 [ORCID Profile](https://orcid.org/0000-0001-5427-6019)
 
 
 <div align="center">
