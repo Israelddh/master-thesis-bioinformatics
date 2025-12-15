@@ -49,3 +49,10 @@ This work is shared under the Creative Commons Attribution-NonCommercial-ShareAl
 
 📧 israelddh@hotmail.com  
 🔗 [www.linkedin.com/in/israel-duarte/](https://www.linkedin.com/in/israel-duarte/)
+
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="RStudio logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
+</div>
